@@ -1,0 +1,8 @@
+1521560968893	geckodriver	INFO	geckodriver 0.20.0
+1521560968906	geckodriver	INFO	Listening on 127.0.0.1:33725
+1521560969938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wFBubT3br1e7"
+1521560971872	Marionette	INFO	Enabled via --marionette
+1521560976948	Marionette	INFO	Listening on port 45049
+1521560977053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1521560977160	Marionette	DEBUG	loaded listener.js
